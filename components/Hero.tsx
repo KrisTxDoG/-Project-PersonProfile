@@ -13,7 +13,7 @@ const Hero: React.FC = () => {
           {/* Text Content */}
           <div className="flex-1 text-center lg:text-left">
             <div className="inline-block px-4 py-1.5 mb-6 rounded-full bg-slate-100 text-secondary font-semibold text-sm tracking-wide">
-              👋 您好，我是 Alex Chen
+              👋 您好，我是 Krist Cai
             </div>
             <h1 className="text-4xl sm:text-5xl lg:text-7xl font-extrabold text-primary tracking-tight leading-tight mb-6">
               將創意轉化為 <br />
